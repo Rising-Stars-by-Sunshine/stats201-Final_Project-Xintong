@@ -87,7 +87,7 @@ explain source:“Regression Analysis—ArcGIS Insights | Documentation.” 2022
 
 This graphic shows the predicted effect of the cut off event, Including the research question, alogrithm, the cut off event, two hypothesises, and the continuity assumption.
 
-*Figure No.2. created by [Whimsical](https://whimsical.com)*
+*Figure No.3. created by [Whimsical](https://whimsical.com)*
 
 ## References
 
