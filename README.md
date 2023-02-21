@@ -80,6 +80,15 @@ This histogram was obtained by collecting data on the daily volume of OpenSea Et
 created by [Linear Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 explain source:“Regression Analysis—ArcGIS Insights | Documentation.” 2022. Doc.arcgis.com. January 2022. https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.htm.*
 
+
+![image](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/whimsical.png)
+
+### Figure No.3. predicted graphic of cut off event.
+
+This graphic shows the predicted effect of the cut off event, Including the research question, alogrithm, the cut off event, two hypothesises, and the continuity assumption.
+
+*Figure No.2. created by [Whimsical](https://whimsical.com) *
+
 ## References
 
 ### Data Source
