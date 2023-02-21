@@ -83,11 +83,11 @@ explain source:“Regression Analysis—ArcGIS Insights | Documentation.” 2022
 
 ![image](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/whimsical.png)
 
-### Figure No.3. predicted graphic of cut off event.
+#### Figure No.3. predicted graphic of cut off event.
 
 This graphic shows the predicted effect of the cut off event, Including the research question, alogrithm, the cut off event, two hypothesises, and the continuity assumption.
 
-*Figure No.2. created by [Whimsical](https://whimsical.com) *
+*Figure No.2. created by [Whimsical](https://whimsical.com)*
 
 ## References
 
