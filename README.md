@@ -87,6 +87,8 @@ explain source:“Regression Analysis—ArcGIS Insights | Documentation.” 2022
 
 Figure No.3. shows the causal inference design for the impact of security incidents in the NFT market on OpenSea's daily trading volume. In 2022, the global NFT market was dismal and a bear market in the crypto market arrived. In June, the global market traded for only $1.04 billion, down 74% MoM from the $4 billion traded in May, marking the largest drop in global NFT trading. ("Marketplaces Archives" 2023). On June 1, Nate Chastain, a former product manager at the world's largest NFT trading platform, OpenSea, was arrested by U.S. law enforcement authorities on charges of wire fraud and money laundering related to insider trading in NFT. (U.S. Attorney's Office 2022). This significant event reflects the widespread security vulnerabilities in the NFT trading market. This study will use the regression discontinuity algorithm to search "How does the major security incident regarding NFT affect the OpenSea daily volumes on Ethereum?" Then, there are two hypothesises based on the research question. Hypothesis one: A major security incident regarding NFT could negatively impact the OpenSea daily volumes on Ethereum. Hypothesis two: A major security incident regarding NFT could increase the decline in OpenSea daily volumes on Ethereum.
 
+*We don’t foresee other confounding factors that could significantly affect OpenSea daily volume on Ethereum at the cutoff date when the major security incident is happened.*
+
 *Figure No.3. created by [Whimsical](https://whimsical.com)*
 
 ## References
