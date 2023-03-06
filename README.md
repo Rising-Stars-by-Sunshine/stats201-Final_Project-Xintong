@@ -19,9 +19,9 @@
 
 
 ## Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/spotlight)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#spotlight)
 - [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#references)
 
 
