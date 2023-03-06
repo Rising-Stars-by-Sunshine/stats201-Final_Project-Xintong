@@ -22,7 +22,7 @@
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#spotlight)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#more)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#more-about-the-author)
 - [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README.md#references)
 
 
@@ -139,7 +139,7 @@ created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwht
 - **Bio**
 Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke Kunshan University. She is now an assistant researcher at Language Learning Center (LCC). She has built up a website for a translation program with an assistant professor at LCC. She has also participated in a social community research program about Autism. Her interests are assistant technology of AI, HCI, and design work the website.
 
-[image](spotlight/Xintong_Wu.png)
+![image](spotlight/Xintong_Wu.png)
 
 - **Final Reflection**
   - Intellectual Growth
