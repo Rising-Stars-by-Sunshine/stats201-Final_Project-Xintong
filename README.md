@@ -156,7 +156,7 @@ Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke
 ### Code Source
 - Explaination [design-principle-blockchain/code](https://github.com/sunshineluyao/design-principle-blockchain)
 - Prediction [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
-- Causal Event [https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html]
+- Causal Event [Python numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 
 ### Articles
 
