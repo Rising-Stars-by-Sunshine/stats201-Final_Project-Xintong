@@ -22,7 +22,7 @@
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/spotlight)
-- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README#139)
+- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/README#L139)
 
 
 ## Data
