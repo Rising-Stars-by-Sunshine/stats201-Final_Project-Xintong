@@ -73,7 +73,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 - **Poster**
 
-![image](blob/main/spotlight/figures/figure1_poster.png)
+![image](spotlight/figures/figure1_poster.png)
 
 #### Figure No.1. Final Project Poster
 
