@@ -71,7 +71,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 ## Spotlight
 
-- **poster**
+- **Poster**
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure1_poster.png)
 
@@ -96,6 +96,7 @@ explain source: insightsoftware. 2022. “Visualizing Text Analysis Results with
 
 
 - **Prediction**
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure3_linear_reg.png)
 
 #### Figure No.3. Linear regression prediction histogram of 2022 OpenSea Daily Volume (Ethereum) in ETH
