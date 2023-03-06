@@ -2,8 +2,9 @@
 ## General information
 - **Author**: Xintong Wu, Computation and Design / digital media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: I would like to express my sincere gratitude to Prof. Luyao Zhang for her guidance in machine learning methods for data interpretation and prediction. Prof. Luyao Zhang provided constructive comments on the feasibility of my research questions and data collection, which prompted me to continuously improve and enhance.
+- **Disclaimer**: Submissions to the Final Project for STATS201: Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**:  I would like to thank Prof. Luyao Zhang for the guidance on machine learning methods for causal inference and the constructive comments on my causal inference research design. Thanks to Yiyang Zhang for her tips on my data analysis methods. Thanks to Shiran Yuan for his peer evaluation for helping me improve my work. Thanks to all STATS201 classmates for the wonderful class atmosphere this session.!
+
 ## Project Summary
 - **Background and Motivation**: In 2022, after a rapid growth phase in non-fungible tokens (NFTs) over the past year, the global market is beginning to transition to a stable phase, with a bear market in the crypto market. (Wood 2022). In June, the global market traded for only $1.04 billion, down 74% sequentially compared to the $4 billion traded in May, marking the largest decline in global NFT trading. (Marketplaces Archives 2023). On June 1, 2022, Nate Chastain, a former product manager at OpenSea, the world's largest NFT trading platform, was arrested by U.S. law enforcement on charges of wire fraud and money laundering in connection with insider trading in NFTs. (U.S. Attorney's Office 2022). This significant incident reflects a general security gap in the NFT trading market. 
 - **Research Question**: How do reports of security incidents related to NFT privacy affect the trading volume of related platforms on Ethereum?
@@ -42,8 +43,8 @@ Prediction Data Source: https://dune.com/queries/2004005
 
 | File Name  | Variable Name | Description | Frecuency | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [literature.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/literature.csv)  | Title  | titles of 15 journals  | None  | None  | str  |
-|   | Abstract  | abstract of 15 journals  | None  | None  | str  |
+| [literature.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/literature.csv)  | Title  | titles of 15 journals  | 1  | None  | str  |
+|   | Abstract  | abstract of 15 journals  | 1  | None  | str  |
 | [title_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/title_bigram.csv)  | bigram  | title's bigram  | None  | None  | tuple  |
 |   | 	counts  | counts of each bigram  | None  | None  | int  |
 | [abstract_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/abstract_bigram.csv)  | bigram  | abstract's bigram  | None  | None  | tuple  |
@@ -61,10 +62,13 @@ Explaination Code Source: https://github.com/sunshineluyao/design-principle-bloc
 
 Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 
-| Explaination  | Prediction |
-| ------------- | ------------- |
+Causal Event Certification Code Source: 
+
+| Explaination  | Prediction | Causal Event |
+| ------------- | ------------- | ------------- |
 | [NLP NFT Challenge](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/NLP_NFT_Challenge.ipynb)  | [Process Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/Pre_Process_Data.ipynb)  |
-|   | [Analyze Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/Pre_Analyze_Data.ipynb)  |
+|   | [Analyze Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/Pre_Analyze_Data.ipynb)  |[Linear Regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/code/causal_event.ipynb)|
+
 
 
 ## Spotlight
