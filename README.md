@@ -11,9 +11,9 @@
 - **Methodology**: The researcher applies a machine learning approach of causal inference in this study. Firstly, set a causal event according to the focus problem and draw a predictive image using a whiteboard tool. (The Visual Workspace 2023). Secondly, proposed two hypotheses about the impact of NFT security incidents on the platform's Ethereum trading volume. Finally, used Scikit-learn Regression Class to calculate and draw the graph to determine the degree of fitness and had the conclusion.
 - **Results**: The study found that the omission regarding the NFT security incident did have a significant negative impact on the trading volume of the platform in question and led to a market downturn for at least the next six months.
 - **Intellectual Merits and Practical impacts**: 
-- This study demonstrates that the occurrence of security incidents can harm the trading market, highlights the limitations of long-standing security breaches in the industry, and contributes to the analysis of NFT's market direction. 
-- At the same time, the study provides directions for future improvements and optimizations in the crypto-sphere market. In the future, the market should accurately define the criteria for NFT security standards, and address the user's privacy and security. 
-- The study also has limitations. Only the current year's trading volumes in 2022 are covered, and subsequent data are not further studied; the trading volume of the NFT market usually changes dramatically at the beginning of each year, so the model cannot make accurate predictions for the market conditions in subsequent years.
+  - This study demonstrates that the occurrence of security incidents can harm the trading market, highlights the limitations of long-standing security breaches in the industry, and contributes to the analysis of NFT's market direction. 
+  - At the same time, the study provides directions for future improvements and optimizations in the crypto-sphere market. In the future, the market should accurately define the criteria for NFT security standards, and address the user's privacy and security. 
+  - The study also has limitations. Only the current year's trading volumes in 2022 are covered, and subsequent data are not further studied; the trading volume of the NFT market usually changes dramatically at the beginning of each year, so the model cannot make accurate predictions for the market conditions in subsequent years.
 
 
 
