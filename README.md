@@ -22,7 +22,7 @@
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/spotlight)
-- References
+- [References]
 
 
 ## Data
@@ -73,7 +73,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 - **Poster**
 
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure1_poster.png)
+![image](blob/main/spotlight/figures/figure1_poster.png)
 
 #### Figure No.1. Final Project Poster
 
