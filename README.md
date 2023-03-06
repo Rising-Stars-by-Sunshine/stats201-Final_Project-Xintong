@@ -137,6 +137,7 @@ created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwht
 
 ## More about the Author
 - **Bio**
+
 Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke Kunshan University. She is now an assistant researcher at Language Learning Center (LCC). She has built up a website for a translation program with an assistant professor at LCC. She has also participated in a social community research program about Autism. Her interests are assistant technology of AI, HCI, and design work the website.
 
 ![image](spotlight/Xintong_Wu.png)
