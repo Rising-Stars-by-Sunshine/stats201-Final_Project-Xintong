@@ -19,9 +19,9 @@
 
 
 ## Table of Contents
-- [Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/data)
-- [Code](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/code)
-- [Spotlight](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/spotlight)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/tree/main/spotlight)
 - References
 
 
@@ -144,14 +144,20 @@ created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwht
 ### Code Source
 - Explaination [design-principle-blockchain/code](https://github.com/sunshineluyao/design-principle-blockchain)
 - Prediction [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
+- Causal Event [https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html]
 
 ### Articles
 
 [Visualizing Text Analysis Results with Word Clouds.](https://insightsoftware.com/blog/visualizing-text-analysis-results-with-word-clouds/)
+
 [Marketplaces Archives 2023](https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces)
+
 [OpenSea Daily Volume (Ethereum) in ETH.](https://dune.com/queries/1164276/1989727)
+
 [Regression Analysis—ArcGIS Insights | Documentation.](https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.htm)
+
 [Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+
 [Non-Fungible Tokens (NFT) Global Market Analysis Report 2022: NFTs Experienced a Rapid Rise in 2021 but Growth Hasn’t Been Steady and Has Plateaued so Far in 2022 - Forecast to 2027](https://www.businesswire.com/news/home/20221206005904/en/Non-Fungible-Tokens-NFT-Global-Market-Analysis-Report-2022-NFTs-Experienced-a-Rapid-Rise-in-2021-but-Growth-Hasnt-Been-Steady-and-has-plateaued-so-Far-in-2022---Forecast-to-2027---ResearchAndMarkets.com)
 
 
@@ -187,3 +193,9 @@ created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwht
 
 - Wilson, Kathleen Bridget, Adam Karg, and Hadi Ghaderi. 2021. “Prospecting Non-Fungible Tokens in the Digital Economy: Stakeholders and Ecosystem, Risk and Opportunity.” Business Horizons 65 (5). https://doi.org/10.1016/j.bushor.2021.10.007.
 
+- Zhang, L. (Sunshine). (2022). Machine Learning for Predictions. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/ml-prediction
+
+- Zhang, L. (Sunshine). (2022). Machine Learning for Causal Inference. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/causal-inference
+- Zhang, L. (Sunshine). (2022). Venues for Machine Learning; Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/ml
+
+- Zhang, L. (Sunshine). (2022). Computing Platforms: Set up the Workspace for Machine Learning Projects. Machine Learning for Social Science. Retrieved from https://ms.pubpub.org/pub/computing
