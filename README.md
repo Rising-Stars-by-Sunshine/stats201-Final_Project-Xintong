@@ -154,7 +154,7 @@ created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwht
 
 [OpenSea Daily Volume (Ethereum) in ETH.](https://dune.com/queries/1164276/1989727)
 
-[Regression Analysis—ArcGIS Insights | Documentation.](https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.htm)
+[Regression Analysis—ArcGIS Insights](https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.html)
 
 [Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 
