@@ -114,9 +114,13 @@ Figure No.3. shows the causal inference design for the impact of security incide
 
 ### Articles
 
+[Visualizing Text Analysis Results with Word Clouds.](https://insightsoftware.com/blog/visualizing-text-analysis-results-with-word-clouds/)
 [Marketplaces Archives 2023](https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces)
-
+[OpenSea Daily Volume (Ethereum) in ETH.](https://dune.com/queries/1164276/1989727)
+[Regression Analysis—ArcGIS Insights | Documentation.](https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.htm)
 [Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+[Non-Fungible Tokens (NFT) Global Market Analysis Report 2022: NFTs Experienced a Rapid Rise in 2021 but Growth Hasn’t Been Steady and Has Plateaued so Far in 2022 - Forecast to 2027](https://www.businesswire.com/news/home/20221206005904/en/Non-Fungible-Tokens-NFT-Global-Market-Analysis-Report-2022-NFTs-Experienced-a-Rapid-Rise-in-2021-but-Growth-Hasnt-Been-Steady-and-has-plateaued-so-Far-in-2022---Forecast-to-2027---ResearchAndMarkets.com)
+
 
 ### Literature
 
