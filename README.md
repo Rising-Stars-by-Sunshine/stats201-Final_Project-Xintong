@@ -71,18 +71,18 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 ## Spotlight
 
--**poster**
+- **poster**
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure1_poster.png)
 
 #### Figure No.1. Final Project Poster
 
-An illustrated poster in Figure No.1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*,*Application Scenario (Data Source)*,*Methodology*,*Results*, and *Intellectual Merits and Practical impacts*.
+An illustrated poster in Figure No.1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*.
 
 *Figure No.1. created by [Microsoft PowerPoint](https://whimsical.com](https://www.microsoft.com/en-us/microsoft-365/powerpoint)*
 
 
--**Explaination**
+- **Explaination**
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure2_word_cloud.png)
 
@@ -95,7 +95,7 @@ created by [design-principle-blockchain/code](https://github.com/sunshineluyao/d
 explain source: insightsoftware. 2022. “Visualizing Text Analysis Results with Word Clouds.” Insightsoftware. May 4, 2022. https://insightsoftware.com/blog/visualizing-text-analysis-results-with-word-clouds/.*
 
 
--**Prediction**
+- **Prediction**
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure3_linear_reg.png)
 
 #### Figure No.3. Linear regression prediction histogram of 2022 OpenSea Daily Volume (Ethereum) in ETH
@@ -107,7 +107,7 @@ created by [Linear Regression](https://scikit-learn.org/stable/modules/linear_mo
 explain source:“Regression Analysis—ArcGIS Insights | Documentation.” 2022. Doc.arcgis.com. January 2022. https://doc.arcgis.com/en/insights/2022.1/analyze/regression-analysis.htm.*
 
 
--**Causal Event**
+- **Causal Event**
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure4_causal_event.png)
 
@@ -120,7 +120,7 @@ Figure No.4. shows the causal inference design for the impact of security incide
 *Figure No.4. created by [Whimsical](https://whimsical.com)*
 
 
--**Result**
+- **Result**
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-Final_Project-Xintong/blob/main/spotlight/figures/figure5_result.png)
 
