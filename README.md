@@ -127,9 +127,9 @@ Figure No.4. shows the causal inference design for the impact of security incide
 
 #### Figure No.5. Result (using Linear Regression Fit Line)
 
+The blue dash in Figure No.5. represents the daily transaction volume of OpenSea in Ether in 2022. The red vertical line represents the NFT security event on June 1. The orange straight line represents the fitted straight line of daily trading volume before June 1, and the green straight line represents after the cut-off event. After the analysis, the trading volume on the OpenSea platform was cut off on June 1, 2022, so the security event did harm the market. Hypothesis 1 was tested. By observing the slopes of the two fitted straight lines in green and orange, we found that the trading volume on the platform is still declining after the security event, but the rate of decline does not increase; instead, the rate of decline is relatively flat. The possible reason is that the NFT market stabilized after this event, as many users who invested autonomously exited the market, leaving behind stable users and stable market sentiment. Therefore, the study rejects Hypothesis 2.
 
-
-
+**Note:** The high trading volume on May 1, 2022, comes from the newly meta-universe project, Otherside, launched by Yuga Labs. This project launched a batch of NFT tokens on Opensea on that day, leading to a surge in daily trading volume.
 
 *Figure No.5. code source: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwhtSySja2rCzSEEteklWeT#scrollTo=QoVlnqhNmzet)
