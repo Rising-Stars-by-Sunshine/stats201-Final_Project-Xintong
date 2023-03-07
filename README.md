@@ -80,7 +80,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 An illustrated poster in Figure No.1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*.
 
-*Figure No.1. created by [Microsoft PowerPoint](https://whimsical.com](https://www.microsoft.com/en-us/microsoft-365/powerpoint)*
+*Figure No.1. created by [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)*
 
 
 - **Explaination**
