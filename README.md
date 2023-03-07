@@ -78,7 +78,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 #### Figure No.1. Final Project Poster
 
-An illustrated poster in Figure No.1. briefly describes the research project. Contents include: *Background and Motivation*, *Research Question*, *Application Scenario (Data Source)*, *Methodology*,*Results*, and *Intellectual Merits and Practical impacts*.
+An illustrated poster in Figure No.1. briefly describes the research project. Contents include: *Abstract*, *Background*, *Methodology*, *Result*, *Conclusion*, *References*, and *Acknowledgement*.
 
 *Figure No.1. created by [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)*
 
