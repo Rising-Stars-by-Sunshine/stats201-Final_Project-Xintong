@@ -1,5 +1,5 @@
 # The Effect of Non-Fungible Token (NFT) Security Incident on Market Trading Volumes - A Case Study of 2022 OpenSea's Daily Volumes on Ethereum
-## General information
+## General Information
 - **Author**: Xintong Wu, Computation and Design / digital media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for STATS201: Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
