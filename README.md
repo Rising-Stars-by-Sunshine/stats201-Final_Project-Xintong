@@ -144,8 +144,21 @@ Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke
 
 - **Final Reflection**
   - Intellectual Growth
+  
+  In this course, I learned and applied the research methods of machine learning. Machine learning can process large-scale and complex data to extract useful information and patterns. And make decisions based on big data to automate and optimize the decision-making process. It improves the efficiency and accuracy of task completion. Sociology and economics are complex and diverse, and machine learning can help people process and understand data better, and provide better services and decisions. This opens up huge potential and opportunities for the future of the industry. The beauty of interdisciplinarity is that it means infinite possibilities. The world is like a gorgeous kaleidoscope, all-encompassing, with everything inextricably linked to each other. Each discipline has its unique disciplinary mindset, and when people conduct interdisciplinary research, researchers use their methods to cross-fertilize and interconnect different disciplines. It may be through machine learning, computer simulation, or human-computer interaction. In interdisciplinary research, various research methods are combined and cross-applied to assist us in solving complex and diverse problems.
+  
   - Professional Growth
+  
+  In this course, I learned a lot about leading-edge science. For example, blockchain, cryptocurrency, and machine algorithm learning. I also learned skills to help me conduct scientific and systematic research. For example, how to make GitHub pages and how to borrow resources to choose research methods on my own. Whether I want to focus on user design in the future or choose to research the needs of users in contemporary markets, the knowledge and skills I have learned will be of great benefit. In addition, through peer evaluation, I have learned how to conduct the process properly and effectively, which has enhanced my critical thinking and communication skills.
+  
   - Living a Purposeful Life
+  
+  I want to be the founder of a new convergence media market. Media is composed of various kinds of information, and various representational data can reflect various meanings underneath the media. I will start from the data to find hidden information and explore new possibilities for the future development of digital media. If one day my achievement is recognized, I would like to quote this saying from the Analects of Confucius: "Know the subtle and know the obvious. （知微知彰。）" It will be my lifelong pursuit to know both the subtle phenomena when things are sprouting and the remarkable consequences of their development. I would like to focus on what I love, and use my strength to catch some and achieve some.
+
+- **Sample Project**
+
+  - [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Xintong)
+  - [Problem Set 2](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Xintong)
 
 
 ## References
