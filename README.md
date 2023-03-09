@@ -135,6 +135,18 @@ The blue dash in Figure No.5. represents the daily transaction volume of OpenSea
 *Figure No.5. code source: [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 created by [Google Colab](https://colab.research.google.com/drive/1pq_ca0qBwxwhtSySja2rCzSEEteklWeT#scrollTo=QoVlnqhNmzet)
 
+- **AI Ethics Issues**
+
+The following are three considerations regarding the AI ethics issues from the research questions.
+
+1. Privacy: security incidents related to NFTs may involve the disclosure of personal information, such as the true identity of the owner of the NFT. NFTs are typically obtained through cryptocurrencies and stored on decentralized networks, held through personal but often anonymous wallets. This anonymity is not as depersonalized and private as some may believe. In many cases, ownership of NFTs and associated transactions can be tied to the identity of the individuals who own, buy, and sell them. (Murphy 2022). The platform should take steps to ensure that their personal information is not compromised.
+
+2. Security: NFT-related security incidents may also involve the theft or loss of digital assets. Platforms that conduct NFT transactions should have strong security measures in place to prevent such incidents from occurring. A new proposal would see the new ERC-721 extension use invisible addresses to mask NFT transactions on the Ethereum network. (Asmakov 2022).
+
+3. Transparency: NFT transaction volumes are an important metric for investors, who need to be confident that reported volumes are accurate. Through the transparency of transaction history, blockchain technology provides trust, permissionless access, and proof of ownership. ("The Benefits of NFT Transaction History and Transparency" 2021). NFT trading platforms should make their transaction volumes public and take steps to prevent fraudulent trading activity.
+
+
+
 ## More about the Author
 - **Bio**
 
@@ -184,6 +196,12 @@ Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke
 [Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
 
 [Non-Fungible Tokens (NFT) Global Market Analysis Report 2022: NFTs Experienced a Rapid Rise in 2021 but Growth Hasn’t Been Steady and Has Plateaued so Far in 2022 - Forecast to 2027](https://www.businesswire.com/news/home/20221206005904/en/Non-Fungible-Tokens-NFT-Global-Market-Analysis-Report-2022-NFTs-Experienced-a-Rapid-Rise-in-2021-but-Growth-Hasnt-Been-Steady-and-has-plateaued-so-Far-in-2022---Forecast-to-2027---ResearchAndMarkets.com)
+
+[New NFT Privacy Proposal Gets Vitalik Buterin’s Attention](https://decrypt.co/107049/new-nft-privacy-proposal-gets-vitalik-buterins-attention.)
+
+[NFTs: Privacy Issues for Consideration](https://www.jdsupra.com/legalnews/nfts-privacy-issues-for-consideration-7804114/.)
+
+[The Benefits of NFT Transaction History and Transparency](https://about.voice.com/blog/the-benefits-of-nft-transaction-history-and-transparency/.)
 
 
 ### Literature
