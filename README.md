@@ -153,7 +153,7 @@ Xintong Wu, a sophomore majoring in Computation and Design/digital media at Duke
   
   - Living a Purposeful Life
   
-  I want to be the founder of a new convergence media market. Media is composed of various kinds of information, and various representational data can reflect various meanings underneath the media. I will start from the data to find hidden information and explore new possibilities for the future development of digital media. If one day my achievement is recognized, I would like to quote this saying from the Analects of Confucius: "Know the subtle and know the obvious. （知微知彰。）" It will be my lifelong pursuit to know both the subtle phenomena when things are sprouting and the remarkable consequences of their development. I would like to focus on what I love, and use my strength to catch some and achieve some.
+  I want to be the founder of a new convergence media market. Media is composed of various kinds of information, and various representational data can reflect various meanings underneath the media. I will start from the data to find hidden information and explore new possibilities for the future development of digital media. If one day my achievement is recognized, I would like to quote this saying from the Analects of Confucius: "Know the subtle and know the obvious. (知微知彰。)" It will be my lifelong pursuit to know both the subtle phenomena when things are sprouting and the remarkable consequences of their development. I would like to focus on what I love, and use my strength to catch some and achieve some.
 
 - **Sample Project**
 
